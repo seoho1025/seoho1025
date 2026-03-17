@@ -38,12 +38,6 @@
 - [GitHub 바로가기](https://github.com/seoho1025/lck-fortune)
 
 ---
-
-## 📊 GitHub Stats
-
-![seoho1025's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoho1025&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoho1025&layout=compact&theme=tokyonight)
 <!--
 **seoho1025/seoho1025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
