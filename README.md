@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Frontend%20Developer&fontSize=50&fontColor=fff&animation=twinkling)
+
 
 ## 👋 안녕하세요, 사용자 입장에서 생각하고, 함께 만들어가는 것을 좋아하는 개발자입니다
 
