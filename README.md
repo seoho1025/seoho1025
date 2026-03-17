@@ -38,6 +38,10 @@
 - [GitHub 바로가기](https://github.com/seoho1025/lck-fortune)
 
 ---
+
+## 📝 Blog
+
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@seoho1025/posts)
 <!--
 **seoho1025/seoho1025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
